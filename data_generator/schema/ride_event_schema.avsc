@@ -1,0 +1,21 @@
+{
+  "type": "record",
+  "name": "RideEvent",
+  "namespace": "com.ridehailing",
+  "fields": [
+    {"name": "event_id", "type": "string"},
+    {"name": "timestamp", "type": "string"},
+    {"name": "passenger_id", "type": ["null", "string"], "default": null},
+    {"name": "driver_id", "type": ["null", "string"], "default": null},
+    {"name": "pickup_location", "type": ["null", "string"], "default": null},
+    {"name": "dropoff_location", "type": ["null", "string"], "default": null},
+    {"name": "request_status", "type": ["null", "string"], "default": null},
+    {"name": "surge_multiplier", "type": ["null", "double"], "default": null},
+    {"name": "traffic_conditions", "type": ["null", "string"], "default": null},
+    {"name": "weather_condition", "type": ["null", "string"], "default": null},
+    {"name": "estimated_trip_duration", "type": ["null", "int"], "default": null},
+    {"name": "estimated_arrival_time", "type": ["null", "string"], "default": null},
+    {"name": "availability_status", "type": ["null", "string"], "default": null},
+    {"name": "uber_type", "type": ["null", "string"], "default": null}
+  ]
+}
