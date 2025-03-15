@@ -1,21 +1,18 @@
 {
   "type": "record",
-  "name": "RideEvent",
+  "name": "PassengerRequest",
   "namespace": "com.ridehailing",
   "fields": [
     {"name": "event_id", "type": "string"},
     {"name": "timestamp", "type": "string"},
-    {"name": "passenger_id", "type": ["null", "string"], "default": null},
-    {"name": "driver_id", "type": ["null", "string"], "default": null},
-    {"name": "pickup_location", "type": ["null", "string"], "default": null},
-    {"name": "dropoff_location", "type": ["null", "string"], "default": null},
-    {"name": "request_status", "type": ["null", "string"], "default": null},
-    {"name": "surge_multiplier", "type": ["null", "double"], "default": null},
-    {"name": "traffic_conditions", "type": ["null", "string"], "default": null},
-    {"name": "weather_condition", "type": ["null", "string"], "default": null},
-    {"name": "estimated_trip_duration", "type": ["null", "int"], "default": null},
-    {"name": "estimated_arrival_time", "type": ["null", "string"], "default": null},
-    {"name": "availability_status", "type": ["null", "string"], "default": null},
-    {"name": "uber_type", "type": ["null", "string"], "default": null}
-  ]
+    {"name": "passenger_id", "type": "string"},
+    {"name": "pickup_location", "type": "string"},
+    {"name": "dropoff_location", "type": "string"},
+    {"name": "request_status", "type": "string"},
+    {"name": "surge_multiplier", "type": "double"},
+    {"name": "traffic_conditions", "type": "string"},
+    {"name": "weather_condition", {"type": "enum", "name": "weather", "symbols": ["clear", "rain", "snow", "fog"]}},
+    {"name": "estimated_trip_duration", "type": "int"},
+    {"name": "estimated_arrival_time", "type": "string"}
+  ]
 }

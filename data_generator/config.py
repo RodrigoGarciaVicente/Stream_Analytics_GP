@@ -8,10 +8,10 @@ params = {
 
 uber_types = {
     "UberX": 0.5,
-    "Uber Black": 0.15,
+    "UberBlack": 0.15,
     "UberXL": 0.15,
-    "Uber Comfort": 0.1,
-    "Uber Green": 0.1,
+    "UberComfort": 0.1,
+    "UberGreen": 0.1,
 }
 
 weather_request_multipliers = {
