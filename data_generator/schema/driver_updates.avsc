@@ -8,7 +8,21 @@
     {"name": "driver_id", "type": "string"},
     {"name": "current_location", "type": "string"},
     {"name": "availability_status", "type": "string"},
-    {"name": "uber_type", {"type": "enum", "name": "uber_type", "symbols": ["UberX", "UberXL", "UberBlack", "UberComfort", "UberGreen"]}},
-    {"name": "weather_condition", {"type": "enum", "name": "weather", "symbols": ["clear", "rain", "snow", "fog"]}}
-  ]
+    {
+      "name": "uber_type",
+      "type": {
+        "type": "enum",
+        "name": "uber_type",
+        "symbols": ["UberX", "UberXL", "UberBlack", "UberComfort", "UberGreen"]
+      }
+    },
+    {
+      "name": "weather_condition",
+      "type": {
+        "type": "enum",
+        "name": "weather",
+        "symbols": ["clear", "rain", "snow", "fog"]
+      }
+    }
+  ]
 }

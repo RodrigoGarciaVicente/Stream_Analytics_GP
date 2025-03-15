@@ -9,7 +9,7 @@ from fastavro.schema import load_schema
 fake = Faker("en_US")
 
 passenger_schema_path = "data_generator\\schema\\passenger_request_schema.avsc"
-driver_schema_path = "data_generator\\schema\\driver_update_schema.avsc"
+driver_schema_path = "data_generator\\schema\\driver_updates.avsc"
 
 passenger_request_schema = load_schema(passenger_schema_path)
 driver_update_schema = load_schema(driver_schema_path)
@@ -21,7 +21,7 @@ TRAFFIC_PEAK_HOURS = [(7, 9), (17, 19)]
 REQUEST_PEAK_HOURS = [(8, 10), (18, 20)]
 CANCELLATION_PROBABILITY = 0.001
 
-UBER_TYPES = ["UberX", "Uber Black", "UberXL", "Uber Comfort", "Uber Green"]
+UBER_TYPES = ["UberX", "UberBlack", "UberXL", "UberComfort", "UberGreen"]
 UBER_TYPE_PROBABILITIES = [0.5, 0.15, 0.15, 0.1, 0.1]
 
 WEATHER_REQUEST_MULTIPLIERS = {
