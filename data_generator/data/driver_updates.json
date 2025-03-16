@@ -1,1802 +1,902 @@
 [
     {
-        "event_id": "5d169869-98f2-4aae-b99d-1acce3f38523",
-        "timestamp": "2025-03-13T16:42:15.735564",
-        "driver_id": "c4ebc124-6a85-4022-aa70-395422e8773a",
-        "current_location": "New York City, 47342 Donald Vista Suite 525",
+        "event_id": "57f43ea4-c19b-4af1-88ce-5c268b14ec3d",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "ae19b4db-f9aa-4451-9619-d9a4bc38446c",
+        "current_location": "New York City, 17436 Tiffany Loaf",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "47dd7af9-96d4-4a7c-8c86-0a12dc13d505",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "977a3e91-e3da-4083-9570-1facbf406fb0",
+        "current_location": "New York City, 188 Jennifer Estate",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "8a12de71-d51d-47b5-b6c0-19baf6240ebe",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "162e4ba8-9784-4484-af81-d218305f1e90",
+        "current_location": "New York City, 174 Anderson Crescent Apt. 356",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "32a94fd5-85e6-4f9f-8c59-f0142c547927",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "62c3adcb-10ed-4648-b3ab-fb5c4b6ae1bc",
-        "current_location": "New York City, 441 Nicholas Forks Apt. 460",
+        "event_id": "38066f7c-6693-479d-ad19-3f5a072baac6",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "c978eb51-75e2-4361-98dd-bed3918f5bd4",
+        "current_location": "New York City, 450 Walker Green Apt. 303",
         "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "ee0ace1f-3b3d-4ac8-8991-1cb94abae327",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "dba6f3ad-e1bb-4992-812b-0134c36bb0bd",
-        "current_location": "New York City, 98750 Amber View",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "777d8a9c-0863-479b-aa2d-490a92ef1b78",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "047f555b-5b5a-4920-841e-ffc3ba309d49",
-        "current_location": "New York City, 763 Brittney Bridge Apt. 402",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "ab8d73af-34f8-484e-a519-753cf566c8e4",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "dc950007-4af1-4fb2-bb9c-f5f295bc1d6a",
-        "current_location": "New York City, 378 Jones Inlet Suite 777",
-        "availability_status": "available",
-        "uber_type": "UberX",
+        "uber_type": "UberBlack",
         "weather_condition": "rain"
     },
     {
-        "event_id": "ba75bc38-b232-4527-b066-1b0a03d43804",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "0f67c10f-c5a7-4ec4-9ac9-597d83a171f3",
-        "current_location": "New York City, 3225 Emily Mount Suite 149",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "edd95c5d-4992-4b75-8153-4791c0b81a82",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "b6871b84-ea1c-4f82-bd09-5f0c6a4898f4",
-        "current_location": "New York City, 321 Li Port",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "cd154f56-fe53-4555-8920-5f1df5640293",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "998c80a7-1b9e-4c46-879c-6c3719ea065c",
-        "current_location": "New York City, 80901 Mcdaniel Wall Suite 283",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "7ca28d5e-0023-4745-bcf4-7b4af491f5ab",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "64a93f7f-089d-4ab2-b5a3-9703e490badf",
-        "current_location": "New York City, 620 Young Road Suite 416",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "1d1b8f9e-6905-483d-912c-641eb43e766e",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "d371e80a-1aa3-448d-adce-327d581ecd1c",
-        "current_location": "New York City, 27963 Jones Lock",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "cc1b034a-8bc3-4ccc-bbad-4d4d838ccd49",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "5f72a55b-fd08-4e79-991b-95d6be472875",
-        "current_location": "New York City, 32750 Fitzgerald Crescent Suite 577",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "00691eed-d5f0-4e27-b9fc-caab2cbc9cd9",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "be0327ba-9de7-4f63-b430-01c204561a82",
-        "current_location": "New York City, 124 Shawn Mills",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "7ee96ca8-2ed5-4597-a603-c0040c925478",
-        "timestamp": "2025-03-13T16:42:15.736563",
-        "driver_id": "8531c3ee-140b-47c1-ab11-ea45b30b9f10",
-        "current_location": "New York City, 0845 Tammy Court Apt. 456",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "4e098f55-5001-4b7e-9972-19f3bc41f83c",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "2ca33609-4240-45a2-b239-e9fcb507e28e",
-        "current_location": "New York City, 67825 Rosario Forge Apt. 953",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "cc9b9717-512a-4860-870a-0f326afe92c2",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "e066b305-f636-446c-873e-1da52a7ccb08",
-        "current_location": "New York City, 27559 Robert Haven Apt. 535",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "6af6c332-3181-4e18-bcb5-bc7181119e98",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "f55b93e0-717d-4dbf-8862-0ea971273bba",
-        "current_location": "New York City, 4316 Mason Parks",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "b34c4011-39fe-4c00-ac82-d9a31bf73a43",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "4247a38f-1b41-4373-91ad-d2fbbc6f8072",
-        "current_location": "New York City, 6276 Paul Course Apt. 584",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "78f904ca-9ac3-4b76-8fd2-ef15bb01747a",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "f41a3cb3-500e-4389-97e1-f7b33783937f",
-        "current_location": "New York City, 45359 Stephanie Garden Suite 794",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "037f8745-c3ed-4aac-a165-d8e434f08239",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "854fd4c1-4a47-48ee-a0f4-fdd0e0da3302",
-        "current_location": "New York City, 05629 Hicks Vista",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "82774bf7-8532-4f2c-b95c-81c34b777466",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "c9a0b90c-70f9-4a68-9e23-24f8e3d68260",
-        "current_location": "New York City, 843 Molly Island",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "e47ba4da-4981-40a2-99e4-b7e0aa66e60b",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "53757875-37cd-4e92-aee8-6e3d222ba003",
-        "current_location": "New York City, 5949 Kevin Locks",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "176a246c-97b8-47d1-9692-54a4affebbc4",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "5a8fcec7-6c00-4bae-afb4-8432547f3578",
-        "current_location": "New York City, 762 Michael Branch",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "6a25c7cd-84a1-4e09-a66d-993764dd219d",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "e0ecf659-2c6c-4e92-86a6-77612438f6b8",
-        "current_location": "New York City, 15903 James Terrace",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "4c9ff1db-5a1c-4ed9-9596-8a8a0aa18133",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "4c5a78ce-8494-42e4-b6e8-64ca50797b79",
-        "current_location": "New York City, 462 Gonzalez Mill Apt. 203",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "5640d451-2849-47d2-b11e-b573038fe82b",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "cd3e2ab7-2e03-4769-8a14-b11572d7aa1f",
-        "current_location": "New York City, 6465 Howard Gardens Suite 280",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "cfb1caac-38f5-44df-9a00-e0e5067761e0",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "0a091fcd-082d-4cca-ad2a-97b6724b7eea",
-        "current_location": "New York City, 27653 Benitez Unions",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "fe29f97d-1227-4590-b396-2f258170ca0a",
-        "timestamp": "2025-03-13T16:42:15.737563",
-        "driver_id": "b7342fc1-19ff-4f6c-9a28-267b49d9b4d0",
-        "current_location": "New York City, 468 Michael Cove Apt. 163",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "464e2562-16af-470d-ad85-6c984fcd06c3",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "97ba8f86-6580-4fe8-a207-e5a6f71d947e",
-        "current_location": "New York City, 443 Graham Wells Suite 092",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "5171cce9-8c93-4827-ac06-c9ad5587992d",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "26e1058b-f1e9-467a-bb18-74a7c2e57aa6",
-        "current_location": "New York City, 8198 Erica Road",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "e8793e76-59a7-4543-ace8-e42ebeb915a3",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "e503f67d-4f3c-456b-8ae0-0797af07a783",
-        "current_location": "New York City, 36678 Jill Port",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "ad84bfe4-5d19-4449-a757-cfa6e5270be0",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "e7f5d686-bdcc-4ac8-a085-70170a62aff3",
-        "current_location": "New York City, 963 Tristan Mews Apt. 473",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "5b5aeeb7-a68a-4790-823d-bdc2ad36a990",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "2ba6e805-51a6-43da-b198-2f20a4998bf7",
-        "current_location": "New York City, 2010 Fernandez Well",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "0da9438a-ebb4-40a5-b96b-8a4416a69265",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "0f7c6c61-a70c-4fd4-9200-aeb45bc66419",
-        "current_location": "New York City, 881 Mendoza Points",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "b3629096-c486-4e30-b708-355f36be58c6",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "845e8ed2-62ab-410d-89f4-4a9bad1f4d26",
-        "current_location": "New York City, 4611 Wright Underpass Apt. 899",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "f0ca6d29-1f92-4784-9d9d-0ef6d87e83c6",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "987d9a98-ac9c-47db-a31d-8197fe01e57f",
-        "current_location": "New York City, 0999 Hunter Road Apt. 355",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "8302c011-19aa-4cce-9ddb-3b6c89d91e33",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "17be4d62-22b7-402b-a8ae-03d691161003",
-        "current_location": "New York City, 52316 Gina Estates",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "fb21a69f-fa80-441c-b9c5-3228ca9a2116",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "28233f5e-f0a0-47e8-95df-fbd2f8c5c454",
-        "current_location": "New York City, 028 Wagner Point Apt. 590",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "c2998f07-5d26-49c4-8f28-4823f2ad201c",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "fef62e58-72a2-4659-98a9-5aeaf7b027aa",
-        "current_location": "New York City, 226 Hicks Forest",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "2c3e5518-9ea4-44db-a982-11e1aea2e3e2",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "49d84bcd-1c94-4990-9e5a-142ddf6abf40",
-        "current_location": "New York City, 10228 Nicole Mall Suite 507",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "461bb6b9-ff51-4211-9ce2-79633c3d44b8",
-        "timestamp": "2025-03-13T16:42:15.738562",
-        "driver_id": "8d24b3e7-2367-4b28-b58f-222fd5bd638f",
-        "current_location": "New York City, 32941 Chelsea Loaf Suite 360",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "914742fb-acc8-4e25-a771-ad3e3b01905d",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "d15df561-4b85-413c-8929-9a7ba578e0b7",
-        "current_location": "New York City, 86902 Debra Trace Suite 085",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "2372f687-68c8-4e75-97fe-484c2826fbe5",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "eada8357-d4ef-4e46-abb2-8bacf526bf79",
-        "current_location": "New York City, 74322 Mark Square Suite 190",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "ea80cfd6-4e95-4fb8-b383-62bb8cf5c89b",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "719a1fcb-2c34-49e0-9532-7ee40f2d832c",
-        "current_location": "New York City, 7438 Jacob Cliffs",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "12295c11-c3c1-465f-8125-487de97c2d02",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "2c8f7fe0-617b-43f6-8e69-44b907a322f7",
-        "current_location": "New York City, 3912 Jessica Shore Apt. 476",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "93f999bb-cdc2-4c98-bc24-e345c68b15a7",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "11baacde-bf88-49b4-880a-ea8b6a94653b",
-        "current_location": "New York City, 088 Stanton Forge",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "a818143b-5d16-4573-86bb-d98f0d93e7f5",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "214ca0f1-7eab-448d-8cdb-fb6a7516f8fa",
-        "current_location": "New York City, 152 Pamela Park",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "a88405d7-96a3-4cd8-b66d-aec5210f72db",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "0e9c68fb-58c1-4c57-a1b3-37bedcbba052",
-        "current_location": "New York City, 11056 Stanley Green Suite 048",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "536e2be2-2b4d-41c7-86c6-297cbe379985",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "320b98d7-faa5-4464-beca-4d0e235034a2",
-        "current_location": "New York City, 885 Frost Burgs Apt. 843",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "2547833e-9aa7-4352-88e6-293cb8f57d9b",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "d942d433-35ed-47c9-a64f-7394ae9638fb",
-        "current_location": "New York City, 82991 Debbie Path Suite 251",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "cc962e07-54a4-4c28-84eb-636fdd7b8858",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "754b9cc6-d52e-4fb2-80cb-33e10112d278",
-        "current_location": "New York City, 15510 Cassandra Bridge",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "86e87eea-ba92-465b-882d-afcf7fc302ee",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "6ca3f7f3-d9dd-45a8-be3f-dd7586b1b7ba",
-        "current_location": "New York City, 62836 Michael Green Apt. 790",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "247a81d6-8ecc-4a60-b7fa-11d7fd52cc6c",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "c6235945-0107-40e4-89c0-2d25325b2b29",
-        "current_location": "New York City, 60682 Griffin Falls",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "81254abb-e578-49d5-be98-7da7431e7e9b",
-        "timestamp": "2025-03-13T16:42:15.739562",
-        "driver_id": "2740840d-1590-4bea-9b5d-61f1bd705182",
-        "current_location": "New York City, 1643 Jeffrey Trace Suite 588",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "a6405636-765e-4997-becc-dd01a882a807",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "0eda47e2-7cd0-44bb-8f90-f9a0b8f1edfc",
-        "current_location": "New York City, 76656 Moreno Corners",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "cd64d00d-f5ce-4f3c-ae77-a8f909bd5a41",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "d12651a0-5d95-4069-a83a-f5ad104cb1bf",
-        "current_location": "New York City, 8390 Rebecca Park",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "6a8ae73c-f0fd-4cfe-9d3f-58d02b60fd10",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "f0d19f29-58d0-43f5-8d75-ad88f780587b",
-        "current_location": "New York City, 2085 Hall Inlet Suite 688",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "220aea44-fa54-4e34-9c91-0f3bb37354a1",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "187cb0c1-819e-4b60-8db3-bd9fa16a2c33",
-        "current_location": "New York City, 0478 Maxwell Circle Apt. 678",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "2491ee98-c3c0-4b62-8e69-8cc1920ec7b1",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "6dd2c0ef-cda3-467c-a607-d7127a5f4709",
-        "current_location": "New York City, 52973 Peterson Drives",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "420397eb-dc46-42c0-9ee3-51fd41d5443d",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "ffaa0603-96a6-4dbe-aa7b-654eeb1e9075",
-        "current_location": "New York City, 866 Vargas Inlet",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "1c5be0c5-6d88-4139-b9b6-9eb3da794178",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "85ac2c18-638d-424a-a5dd-453203ae284d",
-        "current_location": "New York City, 945 Joshua Flat",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "0a7f0025-72fa-4fc9-93d9-e38f58f24450",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "9c11977a-5e47-4623-8fd2-f6cba3af7d8c",
-        "current_location": "New York City, 692 Jeremiah Junction",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "c897e914-cf42-41ec-8181-a99ed192526a",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "b28f8d20-58c4-4bba-8aac-85cbc8c70f32",
-        "current_location": "New York City, 60540 Luis Route Apt. 772",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "7832a3af-2acb-4e82-92b1-37f81f979bb4",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "f150f75a-39ea-4efd-af19-d79fffb35795",
-        "current_location": "New York City, 52400 Cody Station Apt. 827",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "5e33c3f6-e119-4e31-a26e-cd508f906c06",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "a0e61cc0-9487-4151-9e08-317e40a9a03d",
-        "current_location": "New York City, 3821 Jacob Freeway Apt. 506",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "a9619b13-c881-4510-8009-3afdcb51a091",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "2245aa5a-4ec4-445a-b4f7-6ff3b852d4e3",
-        "current_location": "New York City, 3453 Johnson Way Suite 809",
+        "event_id": "0e00d949-8370-41f9-aa3e-416fa1287055",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "0b10717b-fa47-4ae9-b8c6-62af49e17cb7",
+        "current_location": "New York City, 291 Cummings Islands",
         "availability_status": "cancelled",
         "uber_type": "UberXL",
         "weather_condition": "snow"
     },
     {
-        "event_id": "029d77ae-7f26-4855-9dfa-50baeab953a3",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "c121fbac-5019-4657-bc76-8fb237c86a64",
-        "current_location": "New York City, 7221 Adam Brooks Suite 929",
+        "event_id": "0c578dcd-4c1f-4e90-bb68-11fddd6e88d0",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8245b7f2-5f10-439a-818d-6823d2cc0365",
+        "current_location": "New York City, 82060 Nicole Parkway",
         "availability_status": "cancelled",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "9f9ceab6-cb06-4c4b-bdc5-6c961d78fea2",
-        "timestamp": "2025-03-13T16:42:15.740671",
-        "driver_id": "a19de51b-e65f-4175-a282-e7387bd3eae6",
-        "current_location": "New York City, 741 Stephenson Prairie Apt. 349",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "e395d6d4-a060-404b-9744-0c55dbb45882",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "e7494c9e-cf51-42f6-a0d9-00c078a6d14b",
-        "current_location": "New York City, 56556 Cannon Skyway",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "f851fc77-8793-4951-bcf1-f21315d6eaae",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "46885c15-4674-4f46-961a-e09abe3c331a",
-        "current_location": "New York City, 5309 Rebecca Manors",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "491b441d-7338-4d74-b955-657b2b2d5976",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "8776351c-adad-461f-88da-ef42295e11e0",
-        "current_location": "New York City, 5577 Cassandra Spurs Apt. 015",
+        "event_id": "9a30dc9a-560c-4104-92a9-4d7e409f6fae",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "32275fe2-369a-4856-b89c-064de0857fe1",
+        "current_location": "New York City, 70989 Sara Lodge",
         "availability_status": "available",
-        "uber_type": "Uber Green",
+        "uber_type": "UberX",
         "weather_condition": "snow"
     },
     {
-        "event_id": "abb3e145-893d-4589-aae5-c650cc776017",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "3cee2e12-f777-4a89-b95b-f1aac1e09ec7",
-        "current_location": "New York City, 17407 Mcgrath Center Suite 215",
+        "event_id": "4d39750e-ae26-4a4d-ac8c-455e9c5f27bc",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "a323c769-fe0e-40eb-a1c1-ba03d41ec343",
+        "current_location": "New York City, 04614 Sanchez Port",
+        "availability_status": "cancelled",
+        "uber_type": "UberComfort",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "91dbcff0-56d2-435e-8596-2d83913ea960",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "c47596e1-df01-4168-ab71-35759810ef20",
+        "current_location": "New York City, 58918 Davis Ville",
+        "availability_status": "available",
+        "uber_type": "UberComfort",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "0b20abb3-f9f0-4319-9839-585bea7d5f2b",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "e1fe3f59-335b-4f0e-acd2-2d182edf61ee",
+        "current_location": "New York City, 442 Dean Plain",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "c940e7c6-009f-411f-a89a-61b70736ae07",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "452ed326-33ab-4eb6-a046-dd4df3e2b40e",
-        "current_location": "New York City, 049 Richards Burgs Apt. 685",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "59290316-9b7c-415e-871d-b23097a2ec01",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "e56d870b-0874-42f0-b00c-b2bf193e45ef",
-        "current_location": "New York City, 263 Brian Plaza",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "41603b38-af0b-407c-b59c-8cded8e63202",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "05e07c09-3a7e-4009-bcb0-11b0e016ad5d",
-        "current_location": "New York City, 7023 Arnold Village Suite 497",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "d4f45ef2-bb5d-47ae-aa02-d06456b9c8bf",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "ef43ae78-29c8-4154-ba94-b3f1ca62c09c",
-        "current_location": "New York City, 5944 Padilla Cape Suite 114",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "9da3c6e5-b75f-4d1e-a45f-b19d82265341",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "bbeea7c3-9cf4-4d4e-aaa4-8b4fe860d2d1",
-        "current_location": "New York City, 3601 Price Haven",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "477e06cc-e924-4a63-bb82-f8eb11d9ae9d",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "7178b080-1ffb-408e-8547-ef4a85844677",
-        "current_location": "New York City, 65554 Fox Mills Suite 354",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "fb0da108-accd-4a41-840b-512985dfe5b3",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "375920a3-b165-42d2-9404-5425b4891f24",
-        "current_location": "New York City, 9782 Anderson Ways Apt. 333",
+        "event_id": "e98fb05f-7a3b-47bd-b81f-94bc271bb3eb",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8a51b5ca-3592-4443-84dc-86383b646b3e",
+        "current_location": "New York City, 16638 Barnes Glens",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "clear"
     },
     {
-        "event_id": "b8a1a615-11b3-45d3-9bb8-229168a88d02",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "62a00914-f8ce-4e46-9c95-746fabf9f954",
-        "current_location": "New York City, 381 Bryan Port",
+        "event_id": "9023447d-01bf-4b17-bd8b-60d7383399c2",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "2e56ef86-80a0-4c60-9805-158d8ea3a8fa",
+        "current_location": "New York City, 7619 Spencer Brook Apt. 537",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "1cb6a556-fdfc-47d0-a38e-358d4a675681",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "143bba88-53f7-40cf-a3b2-dcb5fefb4afe",
+        "current_location": "New York City, 6978 Henderson Green",
         "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "cfe88d21-7d44-4922-b3bf-0bc24d23a899",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "dd8caad6-f652-4d67-99d4-a81278ab9370",
+        "current_location": "New York City, 479 Moore Estates",
+        "availability_status": "available",
+        "uber_type": "UberXL",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "ed185c7b-8e23-49d9-b892-3e1afe4d64d8",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "0b1ca076-c011-4aee-ba72-73c535fff47b",
+        "current_location": "New York City, 03831 Foster Shores Suite 028",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "e577fff4-5c65-4e96-9748-a33b5e003078",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "4a5f77cb-127f-4f81-982a-d5124777d22e",
+        "current_location": "New York City, 262 Christopher Gardens Apt. 138",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "2148df59-c923-458a-9aa9-6085daa6cbf0",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "600003c8-d5b0-4426-9f0d-4073d677e4fb",
+        "current_location": "New York City, 53858 Lisa Islands",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "e6448a02-7af1-4b90-9987-44f1c7f4b45b",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "1e71da35-0b8a-442b-bcb0-f650b97048a9",
+        "current_location": "New York City, 9584 Kimberly Mission",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "c48881c0-f246-432b-841e-16fd7d2269f3",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "fecbe5db-357c-4d76-b873-48b32c07efda",
+        "current_location": "New York City, 5824 Chavez River Apt. 670",
+        "availability_status": "available",
+        "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "ecc137ad-dbbe-4041-9012-0fb4379d44bd",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "a5cd6d38-41d5-4f48-98bb-3c7829ba82bb",
-        "current_location": "New York City, 568 Estrada Land",
+        "event_id": "5c6557c3-1a71-4b1d-bf4a-254ff182bfad",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "9b9ffa69-78d2-4218-be90-573b7a516f42",
+        "current_location": "New York City, 8879 James Rapid",
         "availability_status": "available",
         "uber_type": "UberXL",
         "weather_condition": "fog"
     },
     {
-        "event_id": "eabdebb5-fc50-4f95-9871-8e3d19c4def4",
-        "timestamp": "2025-03-13T16:42:15.741671",
-        "driver_id": "14ed6591-d758-4750-a125-d23be6b49d9b",
-        "current_location": "New York City, 3300 Donna Port",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "b1c4d151-8c91-4d8b-bae5-9620f5469264",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "babfe890-9734-4406-a6ad-56b3d07e2ad3",
-        "current_location": "New York City, 480 Gina Camp Apt. 712",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "959ca37a-050e-4cbf-bb7d-93d7cdefee1c",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "245f2084-5e83-4be5-84e8-9258c2f75fb5",
-        "current_location": "New York City, 00635 Sexton Underpass Apt. 365",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "83f33ac4-72d3-458f-a9cc-c6048889c8e9",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "d0179ed2-7e22-4a11-8919-baac7c3e3f46",
-        "current_location": "New York City, 63857 Michele Centers Suite 362",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "bf56bc00-3003-4df9-95f8-8e25d456f1f7",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "16294736-0061-44c8-8893-49cba969c735",
-        "current_location": "New York City, 334 Vasquez Mountain",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "a4af743e-753d-495d-a013-c809f3b3e6db",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "c5fcbb48-7355-4b35-b0c4-69cd33a88a3d",
-        "current_location": "New York City, 00046 Monica Forge Apt. 997",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "a947106a-cda0-4a67-b53f-1e439df1f3eb",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "e4d3eab5-3907-43dc-89b5-9605d64974a0",
-        "current_location": "New York City, 70074 Robert Wall",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "81180954-fd25-42ab-a45f-d135aafee550",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "31d59e98-a654-4872-8111-fdbc8c1743f6",
-        "current_location": "New York City, 29327 Joseph Forge",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "7a76beb7-39f8-4454-909a-30d83800602d",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "0c720675-5a7d-47ed-847d-58683c0e1987",
-        "current_location": "New York City, 51584 Dennis Heights",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "ad8aafb6-55ae-40a1-95b1-9403bbc706c6",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "aabf2623-f32f-4ae6-a192-15c58a0e55aa",
-        "current_location": "New York City, 65880 Katherine Village Apt. 151",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "74c0eed7-249d-41b8-a883-ffe62bc33847",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "c1d86a57-0862-4600-9ee4-9f5ba5b18308",
-        "current_location": "New York City, 077 Frazier Track Suite 437",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "61887e4a-5219-40fc-90c4-8ef8fa285e7a",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "abd36206-651c-4a77-b6dd-7c918bcf88a9",
-        "current_location": "New York City, 371 Maria Garden Suite 610",
+        "event_id": "9cf32676-1929-4f9a-99cb-833891f89b6e",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "a395502b-a2b6-4498-bf6d-ca0ecdfc3b81",
+        "current_location": "New York City, 544 John Crossing",
         "availability_status": "cancelled",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "23f3424e-7f0a-4cb8-8d8d-d32d2d0d5496",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "59c5378a-f110-45fa-bdab-040785f81ff3",
-        "current_location": "New York City, 54346 Jennifer Spurs Suite 135",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
+        "event_id": "11dfd415-2b73-47fc-a47b-e463da0c76d4",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "c978eb51-75e2-4361-98dd-bed3918f5bd4",
+        "current_location": "New York City, 450 Walker Green Apt. 303",
+        "availability_status": "cancelled",
+        "uber_type": "UberBlack",
         "weather_condition": "rain"
     },
     {
-        "event_id": "7345eda5-7848-4600-b0ec-27c077e3fabc",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "6b3b8dce-5cae-4955-aa0b-7727c291954e",
-        "current_location": "New York City, 17712 Hayes Divide",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "483100e5-6fe2-4b42-bde1-c16e9b5112e0",
-        "timestamp": "2025-03-13T16:42:15.742667",
-        "driver_id": "1db1a294-3400-4557-b0fa-5d039ad65924",
-        "current_location": "New York City, 3397 Patrick Avenue",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "9458ca05-e322-4a30-bc0d-1e57345fb7ef",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "a5f5c006-7dc5-453d-a7fe-1534157d7ae6",
-        "current_location": "New York City, 7979 Price Underpass Suite 965",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "d2431bd4-7fab-4146-abce-9a9a9c079a52",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "e277202f-171c-4b70-9eda-72aa7f970adf",
-        "current_location": "New York City, 1253 Vargas Parkway",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "cfafaac1-5bd7-4761-93bd-4c5a1c957486",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "71731337-d34d-4c47-b16d-2833cba67aa1",
-        "current_location": "New York City, 811 Lauren Mall",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "be6ec052-a36f-4f3f-b6da-888f71e82b02",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "22443100-4557-49f5-9409-4028a4a5db57",
-        "current_location": "New York City, 2552 Amanda Corner Suite 902",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "c9c1adb4-f089-4151-83c7-661d6da47184",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "98a71931-9c81-4073-9280-fb12c1c11cfd",
-        "current_location": "New York City, 48284 Nicholas Forks Apt. 936",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "4722fc0e-5e70-4a74-b1ce-c63802e57afa",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "b1b4dc1b-f312-42c1-8041-9451fdad69ee",
-        "current_location": "New York City, 61430 Rogers Forks Apt. 183",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "50392743-3daa-48dd-91a3-d9f98fac6f3f",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "ae932f4e-b5a3-4697-adba-4726f91e4003",
-        "current_location": "New York City, 725 William Route",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "d9759915-e1ee-46b2-87b3-cd6b916c07cc",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "ff0176b6-b1e6-4fe1-8a95-44860c975519",
-        "current_location": "New York City, 8393 Lauren Crossroad",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "367ee128-cbca-48f7-b5cc-25a20287d4cd",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "765ce53b-7f63-41bb-91e7-fcd1763b351c",
-        "current_location": "New York City, 9570 Keith Parkways",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "ecfed477-b27d-47c0-a83e-b418c987a601",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "cfe499d3-6f71-4a4b-a23b-4f5e48e4b787",
-        "current_location": "New York City, 96059 Camacho Stravenue Suite 168",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "21336d79-6291-47aa-86f2-0703747ec3dc",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "d1b4f82c-431b-4bdf-b2e4-23f462211e8c",
-        "current_location": "New York City, 09421 Copeland Fields Apt. 919",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "8e53f428-1416-4419-afa0-2ffc42aaa915",
-        "timestamp": "2025-03-13T16:42:15.743607",
-        "driver_id": "3090b6af-4db2-4a28-be62-74118fd404cb",
-        "current_location": "New York City, 37786 Hamilton Coves Suite 952",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "5d83ecee-e860-4237-bc33-f652cd352a2d",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "4ed25a46-5a5a-480f-a09b-439e4253424a",
-        "current_location": "New York City, 855 Diaz Gardens",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "4886ddcc-d8cf-4308-9482-230eada896da",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "2bfd47b0-9865-4c13-8bc5-9d024ea8279b",
-        "current_location": "New York City, 0270 Megan Street Apt. 156",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "f33c5c88-df5f-4bd7-a9c6-28e2d72a8934",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "6b733fec-0e86-4468-a0af-e7fe637f4ca7",
-        "current_location": "New York City, 0975 Teresa Mall Apt. 904",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "b2793be4-77c7-4c70-800e-1accec1f8dd9",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "6c566f3e-e8a9-4f43-a890-ade8931f4cbe",
-        "current_location": "New York City, 9456 Melissa Canyon",
+        "event_id": "9a6f5b2c-913b-4522-abd8-a9cdf8108085",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "dd8caad6-f652-4d67-99d4-a81278ab9370",
+        "current_location": "New York City, 479 Moore Estates",
         "availability_status": "cancelled",
         "uber_type": "UberXL",
         "weather_condition": "clear"
     },
     {
-        "event_id": "38f78af3-e8a0-4f69-9eb4-9411a0dca3f1",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "b5d80ca7-7839-45cf-8373-b058be33bd00",
-        "current_location": "New York City, 116 Michael Cliffs",
+        "event_id": "a9278542-952e-477d-a555-5e0c7dfa383d",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "a2bef824-1fa2-49f2-8d77-5057564b2425",
+        "current_location": "New York City, 95392 Allen Corner Apt. 420",
         "availability_status": "cancelled",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "9c7b8a90-c8ab-4f98-831d-ce553e198f3b",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "73cb2cb1-fcd3-462a-9e85-abf61b28167b",
+        "current_location": "New York City, 8883 Hernandez Knolls Suite 259",
+        "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "clear"
     },
     {
-        "event_id": "1fd1e56b-1d38-4fd3-afb4-509dbc5a833b",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "5e90c1f9-aad4-4551-82dd-bf9bee35f9c4",
-        "current_location": "New York City, 71005 Terrance Vista Apt. 468",
+        "event_id": "79bca2b3-86aa-40a2-bfc4-783d210e9d7c",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "dbc70de3-8832-40c4-9d74-7cdc6228c650",
+        "current_location": "New York City, 10688 Paul Ridge Suite 471",
         "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
     },
     {
-        "event_id": "4ada7973-fb6e-48f0-8e67-791a80940e0a",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "7730b223-1e96-4ff5-8ba9-b214e9c4adc9",
-        "current_location": "New York City, 5800 Jacob Light Apt. 010",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "941cb547-2104-4376-81d5-abd8eb368fb4",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "0ef670a0-5fe4-4d67-afa7-0fde34b515b5",
-        "current_location": "New York City, 328 Collier Locks Suite 495",
+        "event_id": "2bd5ff79-3276-47d4-83e2-b8378f0e0cc7",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "523b3e60-436a-4dfb-b075-083efaad51a7",
+        "current_location": "New York City, 523 Scott Flat",
         "availability_status": "cancelled",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "3513a3a6-538d-4e24-b5fe-83847e79c50c",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "a3338130-b425-4124-9bc0-4fee4fedcfd7",
-        "current_location": "New York City, 6151 Courtney Point",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "3e95e430-c39d-4a32-a77c-7731452061ea",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "5b5ea95c-7e1c-4192-bc6c-c97738b59e3f",
-        "current_location": "New York City, 7525 Ross Estate Apt. 228",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "d8f08a5d-5b1f-4d4f-846f-4500bb144e11",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "b88a6232-91c9-4496-a042-0d7194d2d2b0",
-        "current_location": "New York City, 2126 Kimberly Estates",
+        "event_id": "590a2db3-ec12-4530-86db-04dd5f92117e",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8a968503-aee8-47d5-9671-9133d301c21f",
+        "current_location": "New York City, 55561 Johnson Hill",
         "availability_status": "available",
         "uber_type": "UberX",
-        "weather_condition": "snow"
+        "weather_condition": "clear"
     },
     {
-        "event_id": "e8d96523-17c7-44f2-b9f7-dd74e315c9d8",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "91e4c6cd-d256-46b3-9322-57185b4fa83e",
-        "current_location": "New York City, 723 Taylor Mountains Suite 469",
+        "event_id": "174defe1-e3a9-40ab-b058-36e0cb59be69",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "e7ba0234-394e-4162-b017-d95ad97da9bc",
+        "current_location": "New York City, 354 Gutierrez Estate Suite 731",
         "availability_status": "cancelled",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "141931c8-a242-4d41-860d-12b19f954f7b",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "4c230aab-af85-4eb5-b82a-dc38eb781e6d",
-        "current_location": "New York City, 686 Christie Mission",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "6d87bc2d-41a4-492f-84b1-fea3c455c329",
-        "timestamp": "2025-03-13T16:42:15.744565",
-        "driver_id": "b7d1587d-d4b1-4a52-8d8e-adec6dc41c52",
-        "current_location": "New York City, 616 Brandy River Suite 150",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "1d6a6838-3d10-4106-980a-85e42079c1c3",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "f9988d15-866d-47bb-a050-123277ce95a3",
-        "current_location": "New York City, 485 Shannon Crossing Suite 773",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "697e1691-5673-4cab-931e-3915d14c4cea",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "c69ed971-a6f3-4888-8c9e-dfacfbab6c02",
-        "current_location": "New York City, 7888 Austin Coves Apt. 995",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "2e6241a1-4972-4c15-80ee-0c1fe166680a",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "a4f7101c-19e1-4f0d-9a17-eb7c4511494a",
-        "current_location": "New York City, 8486 Smith Springs Suite 547",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "962801eb-ac00-4f86-9e4b-9274f7fd0f1b",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "ae31ea39-e8f0-4524-9d69-641538d280db",
-        "current_location": "New York City, 53030 Seth Parkways",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "367295c1-f11f-4885-988a-6c88c88024a8",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "d45b45a0-fc89-489d-902b-a605e142d205",
-        "current_location": "New York City, 736 Gregory Forks Apt. 720",
-        "availability_status": "available",
-        "uber_type": "UberXL",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "ce503b1e-d8d8-45f1-b5f6-265ed3db8c34",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "626ffc9b-fdd1-4cca-bf5a-926d39bdcbb4",
-        "current_location": "New York City, 366 Brenda Club",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "148ca890-96e8-4297-8974-c545b83feafd",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "8e40d938-6a42-4cec-9afa-ce578e3cea15",
-        "current_location": "New York City, 691 John Manors",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "4e0abbd7-3cd1-4af2-8a79-caaf9a09ca9e",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "feccb8ba-80fe-4288-b12d-33df11afb789",
-        "current_location": "New York City, 1426 Garcia Drive",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "bdd2f9fc-d49b-45d0-9fa3-3579a5bf9e76",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "c1f68605-bdf8-457d-8933-e2afccd29e8e",
-        "current_location": "New York City, 45606 May Common",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "d1d8166f-b8d4-418f-8c46-249c0720be37",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "2014c64f-10f5-4e94-ba5a-e4dbf6175c12",
-        "current_location": "New York City, 52581 Hayes Village Apt. 273",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "1d55d74c-e321-46eb-850e-62db44373ab8",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "8e5ffd6f-be3f-4837-8641-106895ba9410",
-        "current_location": "New York City, 775 Kevin Village",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "f53627f7-12dc-4c3b-ba74-1e6d27c44649",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "1b41e069-1351-4cd4-9b8b-6ac062d31360",
-        "current_location": "New York City, 5499 Tasha Ranch Suite 199",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "9b252620-d72c-4a8f-917d-a6197c66992d",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "2b9846f4-d3bb-4f4c-aa8c-b41830807b82",
-        "current_location": "New York City, 9214 Leah Keys Suite 469",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "4d1c1ce7-df3f-48a1-ba72-82763667e0b1",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "3670be91-6ac6-44ef-ac41-8256fa7b96e0",
-        "current_location": "New York City, 938 Margaret Spur Suite 012",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "fd34f87a-a924-433f-8039-562c40baf83b",
-        "timestamp": "2025-03-13T16:42:15.745563",
-        "driver_id": "7e0f51fe-19d2-401b-9f1e-799a30bcd0ab",
-        "current_location": "New York City, 79961 Preston Glen Apt. 068",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "03af9991-8716-433c-bcf5-4154d11cb343",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "6570031c-1f19-4dec-8fb3-15b618d2ca21",
-        "current_location": "New York City, 774 Monique Locks Suite 852",
+        "event_id": "5a67b57a-2a60-4e75-810c-6adfd437b61f",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8e914583-cdbb-4b6b-b605-ca0ee2c05740",
+        "current_location": "New York City, 9314 Juan Ramp",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "d4fec9e3-016f-4af9-bfcd-b2ed91685273",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "a50e55bd-9188-426f-8153-5912faa5b27d",
-        "current_location": "New York City, 34983 Keith Tunnel",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "1a36e171-a7b0-4844-9a68-e8edf71363e6",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "44d2b22e-2149-466c-a631-54d23d41ee55",
-        "current_location": "New York City, 87176 Newman Ville Apt. 061",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "e48b4e05-85f5-4dbd-8109-415d9387ea38",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "fc2a5b3f-d252-43e7-bd12-1be61265dac5",
-        "current_location": "New York City, 511 Judy Locks",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "dfeac048-a1f5-4f5f-85d3-71c65264c350",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "079a17bd-45f8-4800-96c4-bf147efd8b0f",
-        "current_location": "New York City, 4982 Sara Courts",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "859d57c8-2190-4d26-a48a-da7ce4816195",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "75f2b5d3-954f-4e44-bdbf-67f8fd1405fc",
-        "current_location": "New York City, 88403 Dustin Greens",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "ed314ef6-7163-4cc6-8259-4a9f75a081ef",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "03c888e4-1123-4c00-bc44-624cd5609af6",
-        "current_location": "New York City, 31515 Daniel Alley Suite 203",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "3fa52625-562c-4cac-b449-49a29e03734c",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "8dd87019-785a-41fb-bd60-e68adf5a0f8a",
-        "current_location": "New York City, 03267 Lewis Bridge Suite 137",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "9410d494-46ac-4d67-835b-3aaa696c561b",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "e88647b7-8ccc-4368-a116-aa1a053a9b78",
-        "current_location": "New York City, 8020 Smith Crest Apt. 542",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "131bc7dc-995f-4830-9469-bc354c9ddd4c",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "2bfdfdf5-578a-4209-81a1-02c855003ac7",
-        "current_location": "New York City, 35143 Lindsey Vista",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "c7b906e2-523b-4cc4-8d33-600c2f873cf0",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "89f7dc11-ca69-41b0-a1b3-a161aa2337cf",
-        "current_location": "New York City, 19260 Barbara Mills Suite 475",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "b0455b16-04a5-47c6-900a-b4ef2ff12563",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "72bc52ed-347c-4d12-812b-d3a978359362",
-        "current_location": "New York City, 71069 Stokes Shores",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "2cc723de-6347-4fc1-89fc-3fddeefc8721",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "2e462ebc-a6e2-4bb9-95c1-ee8fb5f84337",
-        "current_location": "New York City, 77809 Justin Plains Apt. 061",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "9412fa2a-9ed8-4f1b-ae9d-163715be9764",
-        "timestamp": "2025-03-13T16:42:15.746562",
-        "driver_id": "b3a88cad-9090-4d7a-aacb-8450fc763162",
-        "current_location": "New York City, 358 Sean Ridges",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "6c87cf36-1927-44e3-880c-a393a851b23b",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "4df56487-52b1-4e32-8d01-6b44a952b99c",
-        "current_location": "New York City, 366 William Plaza",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "272763ff-958b-472a-8257-33e3750d5747",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "5397a00f-6081-4452-bd49-40b121e14e1a",
-        "current_location": "New York City, 09496 Robinson Heights",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "9cb085fb-d3b6-47cd-b6b9-b3faef0d1f04",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "2652d6f2-b78c-4930-b951-c2e8a5d903d8",
-        "current_location": "New York City, 3265 Andrade Isle Apt. 286",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "e5ea32da-e1d6-42c3-877e-875bd7ba7297",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "989510a4-f6bc-4c84-a04f-803cde9e3295",
-        "current_location": "New York City, 9004 David Manor Apt. 904",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "a8aa72f7-d939-42f7-b3de-03bba116a8dd",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "3c410c57-3329-4ce0-a70e-95cbd856a2c6",
-        "current_location": "New York City, 515 Coffey Shore",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "4f83baaa-8a96-469d-8042-d2d6ef1e84c2",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "43a68860-83b1-4ceb-9d49-0d14eead8959",
-        "current_location": "New York City, 99782 Mary Dale Suite 643",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "4c1fff7a-3484-40a7-84f6-a58311ee3cf8",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "b77db6c1-a4e4-461d-a98c-d5c07b6be361",
-        "current_location": "New York City, 37600 Abigail Tunnel",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "d7ed3c00-95f7-447e-9c4b-4ca37c29b291",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "318d5e0e-94f8-4851-bfbb-d332b8bab992",
-        "current_location": "New York City, 28616 Barnes Stravenue",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "e5ac1420-f7ad-4577-9911-1215dd898d06",
-        "timestamp": "2025-03-13T16:42:15.747562",
-        "driver_id": "567ea6f0-d3a3-4f9c-bb93-866bf4aa31ca",
-        "current_location": "New York City, 2211 Vasquez Ramp Apt. 887",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "89eb9721-eb6a-43d7-9e6e-536822c0e382",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "5d4f760f-f222-40c1-a04a-29b64e6170b1",
-        "current_location": "New York City, 98924 Keith Ports",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "a5c765d6-2868-47b2-9a06-aa6d2522911d",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "ecad5821-783a-4848-998c-f98f79cc6ac6",
-        "current_location": "New York City, 4252 Rebekah Walk Apt. 815",
-        "availability_status": "cancelled",
-        "uber_type": "UberXL",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "f677e42f-f5c6-4938-a233-b7459a9ddcdc",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "0c18ae20-17d7-440e-a1dc-78e654485e8c",
-        "current_location": "New York City, 51612 James Points Apt. 956",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "88768b00-383e-415c-b5af-c3a1333ba3cd",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "44a8dbdb-caaf-45dd-aa7a-dc340e79d3d6",
-        "current_location": "New York City, 83614 Morales Mission",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "f8536241-d603-45d1-97a8-9d505135510f",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "2439c6f6-fd94-422c-b130-62578ef28e96",
-        "current_location": "New York City, 12139 Kyle Parks",
-        "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "3a1f3864-f62b-4420-8f56-c67703d4e0fe",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "b5d4228f-74e1-4f4a-9f17-943f69ed8a21",
-        "current_location": "New York City, 91210 Robert Shoal Apt. 476",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "9b13596b-648b-4f2a-bb6e-a9de06a31945",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "c914348c-af1c-474a-aae8-465b73989bcc",
-        "current_location": "New York City, 2787 Jackson Neck",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "6d945dcc-e1c0-4f73-855f-56fb499c11d9",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "84a9d1f9-1deb-4f8f-9732-5e538721b1f0",
-        "current_location": "New York City, 91556 Amy Trace",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "c9a01252-d798-4734-ac47-d40c15084d86",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "d8afe503-e22b-45c6-945d-929c0cef7e27",
-        "current_location": "New York City, 05870 Tara Hills Suite 463",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "a1c50b2c-c862-4d2a-b7d0-e2f9904aff1e",
-        "timestamp": "2025-03-13T16:42:15.748565",
-        "driver_id": "8884af78-6ac6-43e9-9bc5-7af81e5b1264",
-        "current_location": "New York City, 156 Chad Land Suite 254",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "5f73cf76-259d-4a66-a623-2b0741cae817",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "11f89fbc-90d6-4b4b-afe9-638a67afb131",
-        "current_location": "New York City, 118 Timothy Union Suite 063",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "39c28cd1-fa6f-429b-89a3-bf5a7da6d096",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "89284c85-100d-45dd-81ac-b38d41835b6f",
-        "current_location": "New York City, 6352 Denise Track Suite 178",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "38e24839-3486-4b29-9bae-9f101f3dde05",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "b726d1f2-9ac8-44d2-b675-065e78622320",
-        "current_location": "New York City, 0215 Melanie Rue",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "778ec1b3-7f30-4b7c-8807-99179c25ae8b",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "bc09c65c-a0e2-4733-9220-8fd39a68d509",
-        "current_location": "New York City, 8011 Davis Curve",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "7b6dbe4e-968c-4753-83a3-cb32545238cb",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "2fd8a8f7-234f-4536-839d-467ce6b4f66d",
-        "current_location": "New York City, 51447 Lutz Shore Apt. 296",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "ef35e5fd-9d4c-4016-9393-f9604405b748",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "df405d36-5084-4383-8b2f-a56215d63084",
-        "current_location": "New York City, 2575 Hunt Field Apt. 815",
-        "availability_status": "cancelled",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "eaa43861-ef60-4ef0-914f-64d9f7464849",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "77ba37cd-47fb-43a4-bd7d-7d48b80fb1b0",
-        "current_location": "New York City, 47978 Bethany Ville Apt. 168",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "425c3878-0065-4d74-9c66-1669035d1735",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "6cc57f32-9aa5-4ebe-8338-ea14024384d0",
-        "current_location": "New York City, 68333 David Ridges",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "clear"
-    },
-    {
-        "event_id": "895585ef-46da-4bda-8dfd-b0f77237cc2f",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "5f0be5da-5983-410c-8144-1a8aeb730a6b",
-        "current_location": "New York City, 270 Brandi Street",
-        "availability_status": "available",
-        "uber_type": "UberX",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "ed72e400-0b2f-41ee-8762-ee82431b4b3d",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "4b38ccb4-03a9-4feb-8c26-390822ec3c52",
-        "current_location": "New York City, 79199 John Ferry Apt. 648",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "08a0f0da-5d47-4e72-b8e1-3ccebfff723c",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "60c947e4-a8fd-4ef2-9601-83ab6309035a",
-        "current_location": "New York City, 661 Lewis Highway",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Black",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "ccfd4262-b177-4a79-94ef-077f0abead9e",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "0928350a-65b4-4c57-a8fc-20af3f8d3dd5",
-        "current_location": "New York City, 515 Espinoza Drive",
-        "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "rain"
-    },
-    {
-        "event_id": "c7726311-ebe9-4d8d-a54c-a94117eaa8ea",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "3bd48eca-0850-468e-a6f7-51ce71d3ff0a",
-        "current_location": "New York City, 092 Daniel Flat",
+        "event_id": "f2b4a03d-3bcd-49d7-a74f-4bfffb389910",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "70d9e546-da4c-40f3-84c3-1eed07516ddd",
+        "current_location": "New York City, 16112 Elizabeth Plaza Apt. 563",
         "availability_status": "cancelled",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "12ae67b3-1c94-473d-ba87-d9401081f3a6",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "66c8e9f1-cd4b-48be-9d49-aa27403d4e5a",
-        "current_location": "New York City, 442 Simpson Villages Suite 624",
+        "event_id": "76f74816-0266-45b2-8002-588369385221",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "88abeb33-d44c-437d-9bc5-ca7f28919c48",
+        "current_location": "New York City, 2283 Linda Vista",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "clear"
     },
     {
-        "event_id": "bb08aa35-2e4b-4d1b-8e7d-8a368c52c5ae",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "f60ea21d-7a04-4249-afd7-f0655c00b584",
-        "current_location": "New York City, 6169 Brian Pine",
+        "event_id": "7feeb192-7671-4a05-9ab9-4e5f27aa42ef",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8e914583-cdbb-4b6b-b605-ca0ee2c05740",
+        "current_location": "New York City, 9314 Juan Ramp",
         "availability_status": "available",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
+        "uber_type": "UberX",
+        "weather_condition": "rain"
     },
     {
-        "event_id": "d0b0f243-ea77-43b7-b197-b4e2be7b5287",
-        "timestamp": "2025-03-13T16:42:15.749563",
-        "driver_id": "527d0a0a-fb43-484e-83aa-6f1ca26361a9",
-        "current_location": "New York City, 861 Jose Street",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
+        "event_id": "27048dda-de64-4bcd-85ba-f232cf706560",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "1b722168-27d2-4d3d-b1ac-ba3e1afd2977",
+        "current_location": "New York City, 38238 Parker Drive",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
         "weather_condition": "clear"
     },
     {
-        "event_id": "fcf421b0-2db9-401c-8f11-e55703e0f351",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "1d222c3f-ffe6-4ea6-8a1f-2a205f36a7ae",
-        "current_location": "New York City, 785 John Causeway",
+        "event_id": "d360a53a-f870-47db-bedd-52dce1ec3ca8",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8a968503-aee8-47d5-9671-9133d301c21f",
+        "current_location": "New York City, 55561 Johnson Hill",
         "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "c4e53bb6-3a57-42d0-b496-8eec5ca92e2d",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "8e5ed261-3f37-43a7-98cb-90dbb0360230",
-        "current_location": "New York City, 5740 Collins Skyway Apt. 485",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
+        "uber_type": "UberX",
         "weather_condition": "clear"
     },
     {
-        "event_id": "47bd1cc0-6331-4885-9ccb-f67614e7c373",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "1617aa2e-b23f-4a13-b96b-9e4e4daf0115",
-        "current_location": "New York City, 8394 Brian Harbors",
-        "availability_status": "cancelled",
-        "uber_type": "Uber Green",
-        "weather_condition": "snow"
+        "event_id": "f8455c61-e093-44e6-bb36-92a23a6ec524",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "18ede3d9-9217-44c4-88f5-985514c28e9c",
+        "current_location": "New York City, 3669 Michael Loop",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
     },
     {
-        "event_id": "d22b1b66-cacd-477c-ac8a-bdeb517dc555",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "7a23d091-fb6b-4c04-b554-d1c1959d5ac8",
-        "current_location": "New York City, 6341 Fowler Motorway Apt. 594",
+        "event_id": "9520e6bf-dd55-4154-8ff5-9ff1fe3b958d",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "02309fff-5c69-445d-9b03-06f6454e3686",
+        "current_location": "New York City, 6432 Crawford Expressway Apt. 753",
         "availability_status": "cancelled",
-        "uber_type": "UberXL",
+        "uber_type": "UberBlack",
         "weather_condition": "fog"
     },
     {
-        "event_id": "2d31f7a2-3127-4aca-9c5b-3e156b58c7db",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "0f93a864-c115-4d22-b15e-4c05a6db484e",
-        "current_location": "New York City, 036 Jennifer Views",
+        "event_id": "b95e8961-d516-48e1-9fe6-21ba772debc6",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "1e71da35-0b8a-442b-bcb0-f650b97048a9",
+        "current_location": "New York City, 9584 Kimberly Mission",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "5463472c-6149-4745-ad1d-75e8e5b60799",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "2e56ef86-80a0-4c60-9805-158d8ea3a8fa",
+        "current_location": "New York City, 7619 Spencer Brook Apt. 537",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "b1e43cc2-cd2d-4939-b78f-c35b6a40155d",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "8a51b5ca-3592-4443-84dc-86383b646b3e",
+        "current_location": "New York City, 16638 Barnes Glens",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "6073778a-000a-4efd-a366-1e4fb9a8996c",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "9861eddd-3ed6-4777-ab37-6fde9b8c2a21",
+        "current_location": "New York City, 40807 Susan Turnpike Suite 004",
+        "availability_status": "cancelled",
+        "uber_type": "UberGreen",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "34eed913-5396-4b9c-932d-fab97bf87cb2",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "6b9705d9-ba16-4116-971e-616904cfdb12",
+        "current_location": "New York City, 9537 Osborne Key",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "396f374b-62ff-4543-8ab5-63977fd9729a",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "10bec53b-7219-40c6-a3f0-c2af46c126d7",
+        "current_location": "New York City, 84291 Hale Park Apt. 904",
+        "availability_status": "cancelled",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "0d77a2bd-fd8d-441e-96b4-f5b715a44be5",
+        "timestamp": "2025-03-15T20:20:11.511667",
+        "driver_id": "66804e07-82fe-44f3-81a4-0273fbe71377",
+        "current_location": "New York City, 65299 Collins Run Apt. 548",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "47367b4d-fd15-4a33-94c8-3c32ddbca313",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "b2ea0984-f9c1-4272-a9a5-10a14b24d86a",
+        "current_location": "New York City, 4317 William Walk",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "17fdeb9c-9b26-4717-aef0-4be6947e4fb4",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "18ede3d9-9217-44c4-88f5-985514c28e9c",
+        "current_location": "New York City, 3669 Michael Loop",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "3ecf4234-9c86-43a2-b6c6-24faa5d7cbb8",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "0083ad4c-81a6-4d7b-a5aa-b2044db292f7",
+        "current_location": "New York City, 894 Willis Roads",
+        "availability_status": "cancelled",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "f01f6a04-5dce-45c3-a5f7-68be8f01348a",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "fecbe5db-357c-4d76-b873-48b32c07efda",
+        "current_location": "New York City, 5824 Chavez River Apt. 670",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "7efd84f1-e7a6-4bed-af7d-ce21628ad997",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "e85ad1c8-15a8-47e9-a114-401e7ad9066d",
+        "current_location": "New York City, 4839 Brenda Rue",
+        "availability_status": "cancelled",
+        "uber_type": "UberComfort",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "064c9e1e-7fab-4e41-bc7a-e36b84d2a57b",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "afc84af3-dec9-4fe7-b357-a6d9d0daeed1",
+        "current_location": "New York City, 098 Henson Plaza",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "f55f973f-5456-448a-94f8-934c3c402a26",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "07933ea9-bacd-4e0c-82f3-459b43b02abd",
+        "current_location": "New York City, 754 Craig Wall",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "4f4dd147-4db5-414f-bb89-7aba5d6dfc7b",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "eac1d543-06a7-43ca-9579-224d86522f66",
+        "current_location": "New York City, 3738 Jordan Mountain",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "af8f702f-5d1b-4de4-8e31-ee8064276789",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8514d4aa-3b4c-4314-a4cc-e6339e43e05e",
+        "current_location": "New York City, 439 Jeffrey Gardens",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "1a9765db-e501-4453-bcb4-f3a6eefe612d",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8ef93672-9a86-49c0-927a-ce0bef2d9f56",
+        "current_location": "New York City, 1802 Anderson Harbors Apt. 567",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "39956568-85a9-4683-be08-0270305ddc96",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "d803bd52-6eeb-42b0-b41c-fcc1af9804ca",
+        "current_location": "New York City, 912 Jacob Lock Apt. 776",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "234118d2-4d5a-4b33-a446-55b5c9147cc4",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "143bba88-53f7-40cf-a3b2-dcb5fefb4afe",
+        "current_location": "New York City, 6978 Henderson Green",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "88b256ee-c7e3-4cb0-a6f6-bd3cee38d82f",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8245b7f2-5f10-439a-818d-6823d2cc0365",
+        "current_location": "New York City, 82060 Nicole Parkway",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "75ef19fa-4fe0-4093-b11c-ef2d6d11dd2b",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "84329b9f-b56e-4ede-8bc8-364d7288dea9",
+        "current_location": "New York City, 6893 Christine Prairie",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "7a703d44-7bdd-4869-85d2-98d8d946ed6d",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "84329b9f-b56e-4ede-8bc8-364d7288dea9",
+        "current_location": "New York City, 6893 Christine Prairie",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "68aeb5fe-71f3-4652-9d8c-95467e962435",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "188fd417-c801-4738-b6d0-b1e3a2ffb62e",
+        "current_location": "New York City, 8376 Michael Locks Apt. 843",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "32671d70-b49b-490f-a40d-ecb87ac81c84",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "04297c4a-7bd8-43f9-b6a8-10487403884f",
+        "current_location": "New York City, 7079 James Squares",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "d84e26de-1f13-4065-8b9c-b4eb418490db",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "cf988688-d20a-47a6-ab75-61d57ec68595",
+        "current_location": "New York City, 5945 Nicholas Stravenue Apt. 051",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "a3cbc8a4-90f8-45c1-b8b5-7ae5f72d9dbd",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "0b10717b-fa47-4ae9-b8c6-62af49e17cb7",
+        "current_location": "New York City, 291 Cummings Islands",
         "availability_status": "available",
         "uber_type": "UberXL",
         "weather_condition": "snow"
     },
     {
-        "event_id": "7fb24a66-1d64-4673-a7fb-b61544765381",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "8888dc2c-d785-4d23-9629-b1332e59d878",
-        "current_location": "New York City, 2841 Ray Street Suite 953",
+        "event_id": "f17b3642-8761-4f89-b177-ebd224d9897e",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "afc84af3-dec9-4fe7-b357-a6d9d0daeed1",
+        "current_location": "New York City, 098 Henson Plaza",
         "availability_status": "available",
-        "uber_type": "Uber Comfort",
-        "weather_condition": "fog"
-    },
-    {
-        "event_id": "46108e5a-6c2e-4686-8d6f-a3d2a0094c6f",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "1c75df1e-7451-4361-b66a-c328f7c1d95a",
-        "current_location": "New York City, 26521 Reyes Spurs Suite 365",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
+        "uber_type": "UberX",
         "weather_condition": "snow"
     },
     {
-        "event_id": "770d16ce-a3a1-4500-a486-a69e1a1cc860",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "c59262b6-bada-4a9f-9f87-2d00be04d4df",
-        "current_location": "New York City, 945 Barber Fork Apt. 123",
+        "event_id": "746bc448-f2db-4feb-84f2-3d48ba167ced",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8a968503-aee8-47d5-9671-9133d301c21f",
+        "current_location": "New York City, 55561 Johnson Hill",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "a90fa399-79ca-4406-b8a2-180dc1aafdea",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "a2bef824-1fa2-49f2-8d77-5057564b2425",
+        "current_location": "New York City, 95392 Allen Corner Apt. 420",
+        "availability_status": "cancelled",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "08161fdc-daf8-47fd-be14-f1fd13eba09b",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "04297c4a-7bd8-43f9-b6a8-10487403884f",
+        "current_location": "New York City, 7079 James Squares",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "97e8c020-c4c0-43ab-8eaf-0008131fc1c7",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "dbc70de3-8832-40c4-9d74-7cdc6228c650",
+        "current_location": "New York City, 10688 Paul Ridge Suite 471",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "8dbc1974-673b-4346-adab-a20f42960441",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "13abd2f8-2107-4699-a080-ba90984e3032",
+        "current_location": "New York City, 28769 Smith Brooks Suite 239",
         "availability_status": "cancelled",
         "uber_type": "UberXL",
-        "weather_condition": "rain"
+        "weather_condition": "clear"
     },
     {
-        "event_id": "28ef3429-deae-4301-96e2-d1079c32cc0a",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "d9e8e6ac-804b-4c64-ab81-c0d0c953441f",
-        "current_location": "New York City, 75471 Pearson Circle Suite 535",
+        "event_id": "ba19d070-14d6-474d-8b90-9bc66866511c",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "5439d984-fedf-4229-9cf0-e97874a77e06",
+        "current_location": "New York City, 489 Thompson Views Apt. 608",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "36cc54c3-0757-415b-b4c5-e6c1ecb822a2",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "2b5b5f58-9f51-47db-8a54-214badf578f3",
+        "current_location": "New York City, 3871 Sydney Glen Suite 711",
         "availability_status": "available",
         "uber_type": "UberX",
-        "weather_condition": "rain"
+        "weather_condition": "clear"
     },
     {
-        "event_id": "f57de208-7621-4af9-a1f7-3a3deede37d0",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "eb968c49-a34f-4711-9066-3bbfcf51c857",
-        "current_location": "New York City, 5908 Howard Union",
+        "event_id": "d05db9fc-de11-4c1c-a156-7fa1369c3836",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "9b9ffa69-78d2-4218-be90-573b7a516f42",
+        "current_location": "New York City, 8879 James Rapid",
         "availability_status": "available",
-        "uber_type": "Uber Green",
+        "uber_type": "UberXL",
         "weather_condition": "fog"
     },
     {
-        "event_id": "271798bb-68ab-4819-ad99-bf0c4c8da01e",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "fd425673-db31-4580-98c2-596d5d05ea6e",
-        "current_location": "New York City, 49456 Thomas Underpass",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "b842ffc0-46e8-4206-8f38-b88ccce15b79",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "e1b88b36-5788-4248-a3b6-ebf7671561c2",
-        "current_location": "New York City, 6132 Kenneth Course Suite 837",
-        "availability_status": "available",
-        "uber_type": "Uber Black",
-        "weather_condition": "snow"
-    },
-    {
-        "event_id": "6d52e666-667f-4787-bed1-cef20864ca74",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "4c36d699-7efe-475d-84bd-96419c2d88ce",
-        "current_location": "New York City, 64445 Powell Parkways Apt. 840",
+        "event_id": "9d6ff21d-ab3f-4afd-890d-9775c44b5699",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "4a5f77cb-127f-4f81-982a-d5124777d22e",
+        "current_location": "New York City, 262 Christopher Gardens Apt. 138",
         "availability_status": "cancelled",
-        "uber_type": "Uber Comfort",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "55d694f4-ee29-4dc0-9e10-cc3d761c3327",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "1ccd597b-e299-4ce2-b2ad-c497e339005d",
+        "current_location": "New York City, 05605 Ryan Shores",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "a9cd3c2f-c901-4339-98d0-0297c7c85ce5",
-        "timestamp": "2025-03-13T16:42:15.750665",
-        "driver_id": "75211314-f3f1-4a9d-b95e-f0a6ce4c6e59",
-        "current_location": "New York City, 5691 Hunt Roads",
+        "event_id": "2a9edb5b-4427-4f49-94e6-69285505453a",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "13abd2f8-2107-4699-a080-ba90984e3032",
+        "current_location": "New York City, 28769 Smith Brooks Suite 239",
+        "availability_status": "available",
+        "uber_type": "UberXL",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "b0c592ac-f35c-4b8a-b445-516a44c703a2",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "beb86be7-e642-4a49-93e8-200bcc464b55",
+        "current_location": "New York City, 421 Sean Stream",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "58619581-71e9-4e3f-864e-18047ae4536f",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "6d94dc3b-ddb9-4bfb-83be-b6a6e887c60a",
+        "current_location": "New York City, 23053 Griffin Turnpike",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "ede9fcb6-1fd6-4d09-9a07-2b2365436a28",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "a2d700e5-6c77-4fcb-a611-820ac6086f95",
+        "current_location": "New York City, 98865 Smith Expressway",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "fd668b67-cc3b-46c8-8921-5bfe15429fa3",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "023cce4b-d8b3-4d16-a9c6-a21063775aa5",
+        "current_location": "New York City, 3528 Thomas Glens Suite 369",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "8de158e9-aaf8-4ceb-ad79-77775b17d6ff",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "84329b9f-b56e-4ede-8bc8-364d7288dea9",
+        "current_location": "New York City, 6893 Christine Prairie",
+        "availability_status": "cancelled",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "384d0089-1a22-4165-b706-5fcc1d8b6c5b",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "10bec53b-7219-40c6-a3f0-c2af46c126d7",
+        "current_location": "New York City, 84291 Hale Park Apt. 904",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "0efb5e11-3b65-4fc2-bef8-ea6fb669c612",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "4a5f77cb-127f-4f81-982a-d5124777d22e",
+        "current_location": "New York City, 262 Christopher Gardens Apt. 138",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "a5625340-c801-44f4-a9a5-8248974b7f54",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "35ab8de8-507b-4705-9930-bf9039011706",
+        "current_location": "New York City, 3386 Robert Point Apt. 892",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "34b8ad74-4c5d-4e5b-b385-9df3862b19b2",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "10bec53b-7219-40c6-a3f0-c2af46c126d7",
+        "current_location": "New York City, 84291 Hale Park Apt. 904",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "7eaad1fe-5d49-47c9-9f68-eb4732332c37",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "2e56ef86-80a0-4c60-9805-158d8ea3a8fa",
+        "current_location": "New York City, 7619 Spencer Brook Apt. 537",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "0950e96a-bece-4bfb-a9b0-ed7f00b3990c",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "535a0c0a-8d40-40e9-b7e8-b082a7c92df2",
+        "current_location": "New York City, 9753 Linda Causeway",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "5c4e687d-0f29-4019-9751-9d17a6424fa3",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "ae19b4db-f9aa-4451-9619-d9a4bc38446c",
+        "current_location": "New York City, 17436 Tiffany Loaf",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "bb41c005-b8db-4722-b8f9-783438e27f5c",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "5439d984-fedf-4229-9cf0-e97874a77e06",
+        "current_location": "New York City, 489 Thompson Views Apt. 608",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "24e88e1d-98fd-4fba-8799-9a90fcba2da2",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "a395502b-a2b6-4498-bf6d-ca0ecdfc3b81",
+        "current_location": "New York City, 544 John Crossing",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "c3a52765-e862-4a77-b3f6-add595e6a1b4",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "188fd417-c801-4738-b6d0-b1e3a2ffb62e",
+        "current_location": "New York City, 8376 Michael Locks Apt. 843",
         "availability_status": "available",
         "uber_type": "UberX",
         "weather_condition": "rain"
     },
     {
-        "event_id": "dabfd6c5-3490-4ea3-87a9-55b68294915d",
-        "timestamp": "2025-03-13T16:42:15.751671",
-        "driver_id": "6371313f-e2cb-4c5b-8083-1406cc67b3d3",
-        "current_location": "New York City, 804 Blackburn Shoal",
+        "event_id": "7223da2c-f475-4877-86da-0a5c5819c250",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "977a3e91-e3da-4083-9570-1facbf406fb0",
+        "current_location": "New York City, 188 Jennifer Estate",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "f5518de1-c010-479f-9054-fd37faeaf4a9",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8a51b5ca-3592-4443-84dc-86383b646b3e",
+        "current_location": "New York City, 16638 Barnes Glens",
         "availability_status": "available",
         "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "7323cb9a-f68a-438d-b334-f18818feafd7",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "02309fff-5c69-445d-9b03-06f6454e3686",
+        "current_location": "New York City, 6432 Crawford Expressway Apt. 753",
+        "availability_status": "cancelled",
+        "uber_type": "UberBlack",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "aa4f7b09-146d-49d2-a524-7018957f4aa1",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "32275fe2-369a-4856-b89c-064de0857fe1",
+        "current_location": "New York City, 70989 Sara Lodge",
+        "availability_status": "cancelled",
+        "uber_type": "UberX",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "b3e1b139-05c0-4cd5-a428-8bfdff5331a1",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "8a51b5ca-3592-4443-84dc-86383b646b3e",
+        "current_location": "New York City, 16638 Barnes Glens",
+        "availability_status": "available",
+        "uber_type": "UberX",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "095ef186-d1ba-4003-87f9-059f4d1abe3d",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "eac1d543-06a7-43ca-9579-224d86522f66",
+        "current_location": "New York City, 3738 Jordan Mountain",
+        "availability_status": "available",
+        "uber_type": "UberBlack",
+        "weather_condition": "rain"
+    },
+    {
+        "event_id": "518d41da-e231-4254-b2bf-4f91b435fb28",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "6d94dc3b-ddb9-4bfb-83be-b6a6e887c60a",
+        "current_location": "New York City, 23053 Griffin Turnpike",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "fog"
+    },
+    {
+        "event_id": "68f0b163-b0b1-420b-84a6-db18a91f8dff",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "4a5f77cb-127f-4f81-982a-d5124777d22e",
+        "current_location": "New York City, 262 Christopher Gardens Apt. 138",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "clear"
+    },
+    {
+        "event_id": "975ebb95-c670-4d50-8aaa-ca434781d95c",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "d803bd52-6eeb-42b0-b41c-fcc1af9804ca",
+        "current_location": "New York City, 912 Jacob Lock Apt. 776",
+        "availability_status": "available",
+        "uber_type": "UberGreen",
+        "weather_condition": "snow"
+    },
+    {
+        "event_id": "0587451a-56ad-4b15-8abb-9459a84dcdf7",
+        "timestamp": "2025-03-15T20:20:11.512165",
+        "driver_id": "13abd2f8-2107-4699-a080-ba90984e3032",
+        "current_location": "New York City, 28769 Smith Brooks Suite 239",
+        "availability_status": "cancelled",
+        "uber_type": "UberXL",
         "weather_condition": "clear"
     }
 ]

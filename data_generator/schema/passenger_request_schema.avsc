@@ -1,0 +1,25 @@
+{
+  "type": "record",
+  "name": "PassengerRequest",
+  "namespace": "com.ridehailing",
+  "fields": [
+    {"name": "event_id", "type": "string"},
+    {"name": "timestamp", "type": "string"},
+    {"name": "passenger_id", "type": "string"},
+    {"name": "pickup_location", "type": "string"},
+    {"name": "dropoff_location", "type": "string"},
+    {"name": "request_status", "type": "string"},
+    {"name": "surge_multiplier", "type": "double"},
+    {"name": "traffic_conditions", "type": "string"},
+    {
+      "name": "weather_condition",
+      "type": {
+        "type": "enum",
+        "name": "weather",
+        "symbols": ["clear", "rain", "snow", "fog"]
+      }
+    },
+    {"name": "estimated_trip_duration", "type": "int"},
+    {"name": "estimated_arrival_time", "type": "string"}
+  ]
+}
